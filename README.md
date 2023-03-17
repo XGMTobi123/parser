@@ -1,4 +1,4 @@
-You need composer, node.js, php and mysql installed on server.
+You need composer, node.js, php 7.4 and mysql installed on server.
 
 How to run:
 1. Copy repository.
